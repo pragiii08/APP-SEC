@@ -1,0 +1,6 @@
+{
+  "name": "AppSec Lab",
+  "description": "Interactive multipage web application security lab built with Python, JavaScript, HTML, and CSS covering HTTP lifecycles, OWASP Top 10 testing, secure remediation, and vulnerability reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
